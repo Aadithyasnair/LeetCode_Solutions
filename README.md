@@ -14,13 +14,14 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**3 solved** · 0.6% complete · First solve: 2026-07-16 · Latest: 2026-07-16
+**4 solved** · 0.8% complete · First solve: 2026-07-16 · Latest: 2026-07-16
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
 | `3933` | [Two Sum](solutions/python/medium/3933_largest_local_values_in_a_matrix_II.py) | Medium | 2026-07-16 |
+| `3867` | [Sum of GCD of Formed Pairs](solutions/python/medium/3867_sum_of_GCD_of_formed_pairs.py) | Medium | 2026-07-16 |
 | `0066` | [Plus One](solutions/python/easy/0066_plus_one.py) | Easy | 2026-07-16 |
 | `0001` | [Two Sum](solutions/python/easy/0001_two_sum.py) | Easy | 2026-07-16 |
 
