@@ -14,20 +14,20 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**16 solved** · 3.2% complete · First solve: 2026-07-16 · Latest: 2026-07-17
+**17 solved** · 3.4% complete · First solve: 2026-07-16 · Latest: 2026-07-17
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
 | `2879` | [Display the First Three Rows](solutions/python/easy/2879_display_the_first_three_rows.py) | Easy | 2026-07-17 |
+| `1071` | [Greatest Common Divisor of Strings](solutions/python/easy/1071_greatest_common_divisor_of_strings.py) | Easy | 2026-07-17 |
 | `0664` | [Strange Printer](solutions/python/hard/0664_strange_printer.py) | Hard | 2026-07-17 |
 | `0088` | [Merge Sorted Array](solutions/python/easy/0088_merge_sorted_array.py) | Easy | 2026-07-17 |
 | `0083` | [Remove Duplicates from Sorted List](solutions/python/easy/0083_remove_duplicates_from_sorted_list.py) | Easy | 2026-07-17 |
 | `0070` | [Climbing Stairs](solutions/python/easy/0070_climbing_stairs.py) | Easy | 2026-07-17 |
 | `0069` | [Sqrt(x)](solutions/python/easy/0069_sqrt(x).py) | Easy | 2026-07-17 |
 | `0067` | [Add Binary](solutions/python/easy/0067_add_binary.py) | Easy | 2026-07-17 |
-| `0035` | [Search Insert Position](solutions/python/easy/0035_search_insert_position.py) | Easy | 2026-07-17 |
 
 ## Topics
 
