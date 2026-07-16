@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**2 solved** · 0.4% complete · First solve: 2026-07-16 · Latest: 2026-07-16
+**3 solved** · 0.6% complete · First solve: 2026-07-16 · Latest: 2026-07-16
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `3933` | [Two Sum](solutions/python/medium/3933_largest_local_values_in_a_matrix_II.py) | Medium | 2026-07-16 |
 | `0066` | [Plus One](solutions/python/easy/0066_plus_one.py) | Easy | 2026-07-16 |
 | `0001` | [Two Sum](solutions/python/easy/0001_two_sum.py) | Easy | 2026-07-16 |
 
