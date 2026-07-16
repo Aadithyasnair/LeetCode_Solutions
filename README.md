@@ -14,13 +14,14 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**1 solved** · 0.2% complete · First solve: 2026-07-16 · Latest: 2026-07-16
+**2 solved** · 0.4% complete · First solve: 2026-07-16 · Latest: 2026-07-16
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
 | `0066` | [Plus One](solutions/python/easy/0066_plus_one.py) | Easy | 2026-07-16 |
+| `0001` | [Two Sum](solutions/python/easy/0001_two_sum.py) | Easy | 2026-07-16 |
 
 ## Topics
 
