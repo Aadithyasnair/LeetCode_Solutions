@@ -14,7 +14,7 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**8 solved** · 1.6% complete · First solve: 2026-07-16 · Latest: 2026-07-17
+**9 solved** · 1.8% complete · First solve: 2026-07-16 · Latest: 2026-07-17
 
 ## Latest solved
 
@@ -22,12 +22,12 @@
 | --- | --- | --- | --- |
 | `2879` | [Display the First Three Rows](solutions/python/easy/2879_display_the_first_three_rows.py) | Easy | 2026-07-17 |
 | `0070` | [Climbing Stairs](solutions/python/easy/0070_climbing_stairs.py) | Easy | 2026-07-17 |
+| `0026` | [Remove Duplicates from Sorted Array](solutions/python/easy/0026_remove_duplicates_from_sorted_array.py) | Easy | 2026-07-17 |
 | `0021` | [Merge Two Sorted Lists](solutions/python/easy/0021_merge_two_sorted_lists.py) | Easy | 2026-07-17 |
 | `3933` | [Two Sum](solutions/python/medium/3933_largest_local_values_in_a_matrix_II.py) | Medium | 2026-07-16 |
 | `3867` | [Sum of GCD of Formed Pairs](solutions/python/medium/3867_sum_of_GCD_of_formed_pairs.py) | Medium | 2026-07-16 |
 | `0066` | [Plus One](solutions/python/easy/0066_plus_one.py) | Easy | 2026-07-16 |
 | `0009` | [Palindrome Number](solutions/python/easy/0009_palindrome_number.py) | Easy | 2026-07-16 |
-| `0001` | [Two Sum](solutions/python/easy/0001_two_sum.py) | Easy | 2026-07-16 |
 
 ## Topics
 
