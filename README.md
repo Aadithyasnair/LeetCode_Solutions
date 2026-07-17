@@ -14,7 +14,7 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**20 solved** · 4.0% complete · First solve: 2026-07-16 · Latest: 2026-07-17
+**21 solved** · 4.2% complete · First solve: 2026-07-16 · Latest: 2026-07-17
 
 ## Latest solved
 
