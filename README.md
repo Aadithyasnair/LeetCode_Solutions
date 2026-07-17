@@ -14,20 +14,20 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**22 solved** · 4.4% complete · First solve: 2026-07-16 · Latest: 2026-07-17
+**23 solved** · 4.6% complete · First solve: 2026-07-16 · Latest: 2026-07-17
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `3467` | [Transform Array by Parity](solutions/python/easy/3467_transform_array_by_parity.py) | Easy | 2026-07-17 |
 | `2879` | [Display the First Three Rows](solutions/python/easy/2879_display_the_first_three_rows.py) | Easy | 2026-07-17 |
 | `1450` | [Number of Students Doing Homework at a Given Time](solutions/python/easy/1450_number_of_students_doing_homework_at_a_given_time.py) | Easy | 2026-07-17 |
 | `1071` | [Greatest Common Divisor of Strings](solutions/python/easy/1071_greatest_common_divisor_of_strings.py) | Easy | 2026-07-17 |
+| `0985` | [Sum of Even Numbers After Queries](solutions/python/medium/0985._sum_of_even_numbers_after_queries.py) | Medium | 2026-07-17 |
 | `0664` | [Strange Printer](solutions/python/hard/0664_strange_printer.py) | Hard | 2026-07-17 |
 | `0088` | [Merge Sorted Array](solutions/python/easy/0088_merge_sorted_array.py) | Easy | 2026-07-17 |
 | `0083` | [Remove Duplicates from Sorted List](solutions/python/easy/0083_remove_duplicates_from_sorted_list.py) | Easy | 2026-07-17 |
-| `0070` | [Climbing Stairs](solutions/python/easy/0070_climbing_stairs.py) | Easy | 2026-07-17 |
-| `0069` | [Sqrt(x)](solutions/python/easy/0069_sqrt(x).py) | Easy | 2026-07-17 |
 
 ## Topics
 

@@ -2,7 +2,7 @@
 Problem ID : 3467
 Title      : Transform Array by Parity
 Language   : Python
-Solved Date: 2026-07-16
+Solved Date: 2026-07-17
 """
 class Solution:
     def transformArray(self, nums: List[int]) -> List[int]:
