@@ -1,6 +1,6 @@
 """
-Problem ID : 2000
-Title      : Reverse Prefix of Word
+Problem ID : 1837
+Title      : Sum of Digits in Base K
 Language   : Python
 Solved Date: 2026-07-18
 """
