@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**30 solved** · 6.0% complete · First solve: 2026-07-16 · Latest: 2026-07-18
+**31 solved** · 6.2% complete · First solve: 2026-07-16 · Latest: 2026-07-19
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `2864` | [Maximum Odd Binary Number](solutions/python/easy/2864_maximum_odd_binary_number.py) | Easy | 2026-07-19 |
 | `3986` | [Number of Elapsed Seconds Between Two Times](solutions/python/easy/3986_number_of_elapsed_seconds_between_two_times.py) | Easy | 2026-07-18 |
 | `3931` | [Check Adjacent Digit Differences](solutions/python/easy/3931_check_adjacent_digit_differences.py) | Easy | 2026-07-18 |
 | `1837` | [Sum of Digits in Base K](solutions/python/easy/1837_sum_of_digits_in_base_k.py) | Easy | 2026-07-18 |
@@ -27,7 +28,6 @@
 | `0492` | [Construct the Rectangle](solutions/python/easy/0492_construct_the_rectangle.py) | Easy | 2026-07-18 |
 | `3467` | [Transform Array by Parity](solutions/python/easy/3467_transform_array_by_parity.py) | Easy | 2026-07-17 |
 | `2879` | [Display the First Three Rows](solutions/python/easy/2879_display_the_first_three_rows.py) | Easy | 2026-07-17 |
-| `2347` | [Best Poker Hand](solutions/python/easy/2347_best_poker_hand.py) | Easy | 2026-07-17 |
 
 ## Topics
 
