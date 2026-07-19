@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**39 solved** · 7.8% complete · First solve: 2026-07-16 · Latest: 2026-07-20
+**40 solved** · 8.0% complete · First solve: 2026-07-16 · Latest: 2026-07-20
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `0383` | [Ransom Note](solutions/python/easy/0383_ransom_note.py) | Easy | 2026-07-20 |
 | `0374` | [Guess Number Higher or Lower](solutions/python/easy/0374_guess_number_higher_or_lower.py) | Easy | 2026-07-20 |
 | `0367` | [Valid Perfect Square](solutions/python/easy/0367_valid_perfect_square.py) | Easy | 2026-07-20 |
 | `0350` | [Intersection of Two Arrays II](solutions/python/easy/0350_intersection_of_two_arrays_ii.py) | Easy | 2026-07-20 |
@@ -27,7 +28,6 @@
 | `1075` | [Project Employees I](solutions/mysql/easy/1075_project_employees_i.sql) | Easy | 2026-07-19 |
 | `0349` | [Intersection of Two Arrays](solutions/python/easy/0349_intersection_of_two_arrays.py) | Easy | 2026-07-19 |
 | `0344` | [Reverse String](solutions/python/easy/0344_reverse_string.py) | Easy | 2026-07-19 |
-| `0283` | [Move Zeroes](solutions/python/easy/0283_move_zeroes.py) | Easy | 2026-07-19 |
 
 ## Topics
 
