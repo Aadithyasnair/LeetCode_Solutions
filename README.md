@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**40 solved** · 8.0% complete · First solve: 2026-07-16 · Latest: 2026-07-20
+**41 solved** · 8.2% complete · First solve: 2026-07-16 · Latest: 2026-07-20
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `3760` | [Maximum Substrings With Distinct Start](solutions/python/easy/3760_maximum_substrings_with_distinct_start.py) | Easy | 2026-07-20 |
 | `0383` | [Ransom Note](solutions/python/easy/0383_ransom_note.py) | Easy | 2026-07-20 |
 | `0374` | [Guess Number Higher or Lower](solutions/python/easy/0374_guess_number_higher_or_lower.py) | Easy | 2026-07-20 |
 | `0367` | [Valid Perfect Square](solutions/python/easy/0367_valid_perfect_square.py) | Easy | 2026-07-20 |
@@ -27,7 +28,6 @@
 | `2864` | [Maximum Odd Binary Number](solutions/python/easy/2864_maximum_odd_binary_number.py) | Easy | 2026-07-19 |
 | `1075` | [Project Employees I](solutions/mysql/easy/1075_project_employees_i.sql) | Easy | 2026-07-19 |
 | `0349` | [Intersection of Two Arrays](solutions/python/easy/0349_intersection_of_two_arrays.py) | Easy | 2026-07-19 |
-| `0344` | [Reverse String](solutions/python/easy/0344_reverse_string.py) | Easy | 2026-07-19 |
 
 ## Topics
 
