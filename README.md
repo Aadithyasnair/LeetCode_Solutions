@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**38 solved** · 7.6% complete · First solve: 2026-07-16 · Latest: 2026-07-20
+**39 solved** · 7.8% complete · First solve: 2026-07-16 · Latest: 2026-07-20
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `0374` | [Guess Number Higher or Lower](solutions/python/easy/0374_guess_number_higher_or_lower.py) | Easy | 2026-07-20 |
 | `0367` | [Valid Perfect Square](solutions/python/easy/0367_valid_perfect_square.py) | Easy | 2026-07-20 |
 | `0350` | [Intersection of Two Arrays II](solutions/python/easy/0350_intersection_of_two_arrays_ii.py) | Easy | 2026-07-20 |
 | `2864` | [Maximum Odd Binary Number](solutions/python/easy/2864_maximum_odd_binary_number.py) | Easy | 2026-07-19 |
@@ -27,7 +28,6 @@
 | `0349` | [Intersection of Two Arrays](solutions/python/easy/0349_intersection_of_two_arrays.py) | Easy | 2026-07-19 |
 | `0344` | [Reverse String](solutions/python/easy/0344_reverse_string.py) | Easy | 2026-07-19 |
 | `0283` | [Move Zeroes](solutions/python/easy/0283_move_zeroes.py) | Easy | 2026-07-19 |
-| `0258` | [Add Digits](solutions/python/easy/0258_add_digits.py) | Easy | 2026-07-19 |
 
 ## Topics
 
