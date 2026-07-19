@@ -20,7 +20,7 @@
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| `3760` | [Maximum Substrings With Distinct Start](solutions/python/easy/3760_maximum_substrings_with_distinct_start.py) | Easy | 2026-07-20 |
+| `3760` | [Maximum Substrings With Distinct Start](solutions/python/medium/3760_maximum_substrings_with_distinct_start.py) | Medium | 2026-07-20 |
 | `0383` | [Ransom Note](solutions/python/easy/0383_ransom_note.py) | Easy | 2026-07-20 |
 | `0374` | [Guess Number Higher or Lower](solutions/python/easy/0374_guess_number_higher_or_lower.py) | Easy | 2026-07-20 |
 | `0367` | [Valid Perfect Square](solutions/python/easy/0367_valid_perfect_square.py) | Easy | 2026-07-20 |
