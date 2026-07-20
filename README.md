@@ -14,20 +14,20 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**42 solved** · 8.4% complete · First solve: 2026-07-16 · Latest: 2026-07-20
+**43 solved** · 8.6% complete · First solve: 2026-07-16 · Latest: 2026-07-20
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
 | `3760` | [Maximum Substrings With Distinct Start](solutions/python/medium/3760_maximum_substrings_with_distinct_start.py) | Medium | 2026-07-20 |
+| `2951` | [Find the Peaks](solutions/python/easy/2951_find_the_peaks.py) | Easy | 2026-07-20 |
 | `1693` | [Daily Leads and Partners](solutions/mysql/easy/1693_daily_leads_and_partners.sql) | Easy | 2026-07-20 |
 | `0383` | [Ransom Note](solutions/python/easy/0383_ransom_note.py) | Easy | 2026-07-20 |
 | `0374` | [Guess Number Higher or Lower](solutions/python/easy/0374_guess_number_higher_or_lower.py) | Easy | 2026-07-20 |
 | `0367` | [Valid Perfect Square](solutions/python/easy/0367_valid_perfect_square.py) | Easy | 2026-07-20 |
 | `0350` | [Intersection of Two Arrays II](solutions/python/easy/0350_intersection_of_two_arrays_ii.py) | Easy | 2026-07-20 |
 | `2864` | [Maximum Odd Binary Number](solutions/python/easy/2864_maximum_odd_binary_number.py) | Easy | 2026-07-19 |
-| `1075` | [Project Employees I](solutions/mysql/easy/1075_project_employees_i.sql) | Easy | 2026-07-19 |
 
 ## Topics
 

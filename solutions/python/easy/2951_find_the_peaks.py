@@ -1,0 +1,13 @@
+"""
+Problem ID : 2951
+Title      : Find the Peaks
+Language   : Python
+Solved Date: 2026-07-20
+"""
+class Solution:
+    def findPeaks(self, mountain: List[int]) -> List[int]:
+        l=[]
+        for i in range(1,len(mountain)-1):
+            if (mountain[i-1]<mountain[i]>mountain[i+1]):
+                l.append(i)
+        return l
