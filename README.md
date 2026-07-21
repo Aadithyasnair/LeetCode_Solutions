@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**44 solved** · 8.8% complete · First solve: 2026-07-16 · Latest: 2026-07-20
+**45 solved** · 9.0% complete · First solve: 2026-07-16 · Latest: 2026-07-21
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `1342` | [Number of Steps to Reduce a Number to Zero](solutions/python/easy/1342_number_of_steps_to_reduce_a_number_to_zero.py) | Easy | 2026-07-21 |
 | `3760` | [Maximum Substrings With Distinct Start](solutions/python/medium/3760_maximum_substrings_with_distinct_start.py) | Medium | 2026-07-20 |
 | `3370` | [Smallest Number With All Set Bits](solutions/python/easy/3370_smallest_number_with_all_set_bits.py) | Easy | 2026-07-20 |
 | `2951` | [Find the Peaks](solutions/python/easy/2951_find_the_peaks.py) | Easy | 2026-07-20 |
@@ -27,7 +28,6 @@
 | `0383` | [Ransom Note](solutions/python/easy/0383_ransom_note.py) | Easy | 2026-07-20 |
 | `0374` | [Guess Number Higher or Lower](solutions/python/easy/0374_guess_number_higher_or_lower.py) | Easy | 2026-07-20 |
 | `0367` | [Valid Perfect Square](solutions/python/easy/0367_valid_perfect_square.py) | Easy | 2026-07-20 |
-| `0350` | [Intersection of Two Arrays II](solutions/python/easy/0350_intersection_of_two_arrays_ii.py) | Easy | 2026-07-20 |
 
 ## Topics
 
