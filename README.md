@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**45 solved** · 9.0% complete · First solve: 2026-07-16 · Latest: 2026-07-21
+**46 solved** · 9.2% complete · First solve: 2026-07-16 · Latest: 2026-07-23
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `1423` | [Maximum Points You Can Obtain from Cards](solutions/python/medium/1423_maximum_points_you_can_obtain_from_cards.py) | Medium | 2026-07-23 |
 | `1342` | [Number of Steps to Reduce a Number to Zero](solutions/python/easy/1342_number_of_steps_to_reduce_a_number_to_zero.py) | Easy | 2026-07-21 |
 | `3760` | [Maximum Substrings With Distinct Start](solutions/python/medium/3760_maximum_substrings_with_distinct_start.py) | Medium | 2026-07-20 |
 | `3370` | [Smallest Number With All Set Bits](solutions/python/easy/3370_smallest_number_with_all_set_bits.py) | Easy | 2026-07-20 |
@@ -27,7 +28,6 @@
 | `1693` | [Daily Leads and Partners](solutions/mysql/easy/1693_daily_leads_and_partners.sql) | Easy | 2026-07-20 |
 | `0383` | [Ransom Note](solutions/python/easy/0383_ransom_note.py) | Easy | 2026-07-20 |
 | `0374` | [Guess Number Higher or Lower](solutions/python/easy/0374_guess_number_higher_or_lower.py) | Easy | 2026-07-20 |
-| `0367` | [Valid Perfect Square](solutions/python/easy/0367_valid_perfect_square.py) | Easy | 2026-07-20 |
 
 ## Topics
 
