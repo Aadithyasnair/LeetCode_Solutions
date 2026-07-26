@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**48 solved** · 9.6% complete · First solve: 2026-07-16 · Latest: 2026-07-25
+**49 solved** · 9.8% complete · First solve: 2026-07-16 · Latest: 2026-07-26
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `3794` | [Reverse String Prefix](solutions/python/easy/3794_reverse_string_prefix.py) | Easy | 2026-07-26 |
 | `3908` | [Valid Digit Number](solutions/python/easy/3908_valid_digit_number.py) | Easy | 2026-07-25 |
 | `3894` | [Traffic Signal Color](solutions/python/easy/3894_traffic_signal_color.py) | Easy | 2026-07-25 |
 | `1423` | [Maximum Points You Can Obtain from Cards](solutions/python/medium/1423_maximum_points_you_can_obtain_from_cards.py) | Medium | 2026-07-23 |
@@ -27,7 +28,6 @@
 | `3760` | [Maximum Substrings With Distinct Start](solutions/python/medium/3760_maximum_substrings_with_distinct_start.py) | Medium | 2026-07-20 |
 | `3370` | [Smallest Number With All Set Bits](solutions/python/easy/3370_smallest_number_with_all_set_bits.py) | Easy | 2026-07-20 |
 | `2951` | [Find the Peaks](solutions/python/easy/2951_find_the_peaks.py) | Easy | 2026-07-20 |
-| `1693` | [Daily Leads and Partners](solutions/mysql/easy/1693_daily_leads_and_partners.sql) | Easy | 2026-07-20 |
 
 ## Topics
 
