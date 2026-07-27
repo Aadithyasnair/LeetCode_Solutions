@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**52 solved** · 10.4% complete · First solve: 2026-07-16 · Latest: 2026-07-27
+**53 solved** · 10.6% complete · First solve: 2026-07-16 · Latest: 2026-07-27
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `3582` | [Generate Tag for Video Caption](solutions/python/easy/3582_generate_tag_for_video_caption.py) | Easy | 2026-07-27 |
 | `3099` | [Harshad Number](solutions/python/easy/3099_harshad_number.py) | Easy | 2026-07-27 |
 | `2855` | [Minimum Right Shifts to Sort the Array](solutions/python/easy/2855_minimum_right_shifts_to_sort_the_array.py) | Easy | 2026-07-27 |
 | `3798` | [Largest Even Number](solutions/python/easy/3798_largest_even_number.py) | Easy | 2026-07-26 |
@@ -27,7 +28,6 @@
 | `3908` | [Valid Digit Number](solutions/python/easy/3908_valid_digit_number.py) | Easy | 2026-07-25 |
 | `3894` | [Traffic Signal Color](solutions/python/easy/3894_traffic_signal_color.py) | Easy | 2026-07-25 |
 | `1423` | [Maximum Points You Can Obtain from Cards](solutions/python/medium/1423_maximum_points_you_can_obtain_from_cards.py) | Medium | 2026-07-23 |
-| `1342` | [Number of Steps to Reduce a Number to Zero](solutions/python/easy/1342_number_of_steps_to_reduce_a_number_to_zero.py) | Easy | 2026-07-21 |
 
 ## Topics
 
