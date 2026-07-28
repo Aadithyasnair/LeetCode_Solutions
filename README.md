@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**54 solved** · 10.8% complete · First solve: 2026-07-16 · Latest: 2026-07-27
+**55 solved** · 11.0% complete · First solve: 2026-07-16 · Latest: 2026-07-28
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `3024` | [Type of Triangle](solutions/python/easy/3024_type_of_triangle.py) | Easy | 2026-07-28 |
 | `3582` | [Generate Tag for Video Caption](solutions/python/easy/3582_generate_tag_for_video_caption.py) | Easy | 2026-07-27 |
 | `3099` | [Harshad Number](solutions/python/easy/3099_harshad_number.py) | Easy | 2026-07-27 |
 | `2855` | [Minimum Right Shifts to Sort the Array](solutions/python/easy/2855_minimum_right_shifts_to_sort_the_array.py) | Easy | 2026-07-27 |
@@ -27,7 +28,6 @@
 | `3798` | [Largest Even Number](solutions/python/easy/3798_largest_even_number.py) | Easy | 2026-07-26 |
 | `3794` | [Reverse String Prefix](solutions/python/easy/3794_reverse_string_prefix.py) | Easy | 2026-07-26 |
 | `3908` | [Valid Digit Number](solutions/python/easy/3908_valid_digit_number.py) | Easy | 2026-07-25 |
-| `3894` | [Traffic Signal Color](solutions/python/easy/3894_traffic_signal_color.py) | Easy | 2026-07-25 |
 
 ## Topics
 
