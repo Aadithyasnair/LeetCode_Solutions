@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**55 solved** · 11.0% complete · First solve: 2026-07-16 · Latest: 2026-07-28
+**56 solved** · 11.2% complete · First solve: 2026-07-16 · Latest: 2026-07-29
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `2788` | [Split Strings by Separator](solutions/python/easy/2788_split_strings_by_separator.py) | Easy | 2026-07-29 |
 | `3024` | [Type of Triangle](solutions/python/easy/3024_type_of_triangle.py) | Easy | 2026-07-28 |
 | `3582` | [Generate Tag for Video Caption](solutions/python/easy/3582_generate_tag_for_video_caption.py) | Easy | 2026-07-27 |
 | `3099` | [Harshad Number](solutions/python/easy/3099_harshad_number.py) | Easy | 2026-07-27 |
@@ -27,7 +28,6 @@
 | `1464` | [Maximum Product of Two Elements in an Array](solutions/python/easy/1464_maximum_product_of_two_elements_in_an_array.py) | Easy | 2026-07-27 |
 | `3798` | [Largest Even Number](solutions/python/easy/3798_largest_even_number.py) | Easy | 2026-07-26 |
 | `3794` | [Reverse String Prefix](solutions/python/easy/3794_reverse_string_prefix.py) | Easy | 2026-07-26 |
-| `3908` | [Valid Digit Number](solutions/python/easy/3908_valid_digit_number.py) | Easy | 2026-07-25 |
 
 ## Topics
 
