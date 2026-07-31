@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**57 solved** · 11.4% complete · First solve: 2026-07-16 · Latest: 2026-07-30
+**58 solved** · 11.6% complete · First solve: 2026-07-16 · Latest: 2026-07-31
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `2798` | [Number of Employees Who Met the Target](solutions/python/easy/2798_number_of_employees_who_met_the_target.py) | Easy | 2026-07-31 |
 | `2678` | [Number of Senior Citizens](solutions/python/easy/2678_number_of_senior_citizens.py) | Easy | 2026-07-30 |
 | `2788` | [Split Strings by Separator](solutions/python/easy/2788_split_strings_by_separator.py) | Easy | 2026-07-29 |
 | `3024` | [Type of Triangle](solutions/python/easy/3024_type_of_triangle.py) | Easy | 2026-07-28 |
@@ -27,7 +28,6 @@
 | `3099` | [Harshad Number](solutions/python/easy/3099_harshad_number.py) | Easy | 2026-07-27 |
 | `2855` | [Minimum Right Shifts to Sort the Array](solutions/python/easy/2855_minimum_right_shifts_to_sort_the_array.py) | Easy | 2026-07-27 |
 | `1464` | [Maximum Product of Two Elements in an Array](solutions/python/easy/1464_maximum_product_of_two_elements_in_an_array.py) | Easy | 2026-07-27 |
-| `3798` | [Largest Even Number](solutions/python/easy/3798_largest_even_number.py) | Easy | 2026-07-26 |
 
 ## Topics
 
