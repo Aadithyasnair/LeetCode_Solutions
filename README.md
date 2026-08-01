@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**59 solved** · 11.8% complete · First solve: 2026-07-16 · Latest: 2026-07-31
+**60 solved** · 12.0% complete · First solve: 2026-07-16 · Latest: 2026-08-01
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `0125` | [Valid Palindrome](solutions/python/easy/125_valid_palindrome.py) | Easy | 2026-08-01 |
 | `2798` | [Number of Employees Who Met the Target](solutions/python/easy/2798_number_of_employees_who_met_the_target.py) | Easy | 2026-07-31 |
 | `2437` | [Number of Valid Clock Times](solutions/python/easy/2437_number_of_valid_clock_times.py) | Easy | 2026-07-31 |
 | `2678` | [Number of Senior Citizens](solutions/python/easy/2678_number_of_senior_citizens.py) | Easy | 2026-07-30 |
@@ -27,7 +28,6 @@
 | `3024` | [Type of Triangle](solutions/python/easy/3024_type_of_triangle.py) | Easy | 2026-07-28 |
 | `3582` | [Generate Tag for Video Caption](solutions/python/easy/3582_generate_tag_for_video_caption.py) | Easy | 2026-07-27 |
 | `3099` | [Harshad Number](solutions/python/easy/3099_harshad_number.py) | Easy | 2026-07-27 |
-| `2855` | [Minimum Right Shifts to Sort the Array](solutions/python/easy/2855_minimum_right_shifts_to_sort_the_array.py) | Easy | 2026-07-27 |
 
 ## Topics
 
