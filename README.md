@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**66 solved** · 13.2% complete · First solve: 2026-07-16 · Latest: 2026-08-03
+**67 solved** · 13.4% complete · First solve: 2026-07-16 · Latest: 2026-08-04
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `3925` | [Concatenate Array With Reverse](solutions/python/easy/3925_concatenate_array_with_reverse.py) | Easy | 2026-08-04 |
 | `3697` | [Compute Decimal Representation](solutions/python/easy/3697_compute_decimal_representation.py) | Easy | 2026-08-03 |
 | `3959` | [Check Good Integer](solutions/python/easy/3959_check_good_integer.py) | Easy | 2026-08-02 |
 | `3174` | [Clear Digits](solutions/python/easy/3174_clear_digits.py) | Easy | 2026-08-02 |
@@ -27,7 +28,6 @@
 | `1389` | [Create Target Array in the Given Order](solutions/python/easy/1389_create_target_array_in_the_given_order.py) | Easy | 2026-08-02 |
 | `0242` | [Valid Anagram](solutions/python/easy/242_valid_anagram.py) | Easy | 2026-08-01 |
 | `0125` | [Valid Palindrome](solutions/python/easy/125_valid_palindrome.py) | Easy | 2026-08-01 |
-| `2798` | [Number of Employees Who Met the Target](solutions/python/easy/2798_number_of_employees_who_met_the_target.py) | Easy | 2026-07-31 |
 
 ## Topics
 
