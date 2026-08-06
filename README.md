@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**68 solved** · 13.6% complete · First solve: 2026-07-16 · Latest: 2026-08-05
+**69 solved** · 13.8% complete · First solve: 2026-07-16 · Latest: 2026-08-06
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `3345` | [Smallest Divisible Digit Product I](solutions/python/easy/3345_smallest_divisible_digit_product_i.py) | Easy | 2026-08-06 |
 | `1089` | [Duplicate Zeros](solutions/python/easy/1089_duplicate_zeros.py) | Easy | 2026-08-05 |
 | `3925` | [Concatenate Array With Reverse](solutions/python/easy/3925_concatenate_array_with_reverse.py) | Easy | 2026-08-04 |
 | `3697` | [Compute Decimal Representation](solutions/python/easy/3697_compute_decimal_representation.py) | Easy | 2026-08-03 |
@@ -27,7 +28,6 @@
 | `3174` | [Clear Digits](solutions/python/easy/3174_clear_digits.py) | Easy | 2026-08-02 |
 | `2525` | [Categorize Box According to Criteria](solutions/python/easy/2525_categorize_box_according_to_criteria.py) | Easy | 2026-08-02 |
 | `1389` | [Create Target Array in the Given Order](solutions/python/easy/1389_create_target_array_in_the_given_order.py) | Easy | 2026-08-02 |
-| `0242` | [Valid Anagram](solutions/python/easy/242_valid_anagram.py) | Easy | 2026-08-01 |
 
 ## Topics
 
