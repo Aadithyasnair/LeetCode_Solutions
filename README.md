@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**71 solved** · 14.2% complete · First solve: 2026-07-16 · Latest: 2026-08-06
+**72 solved** · 14.4% complete · First solve: 2026-07-16 · Latest: 2026-08-07
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `3550` | [Smallest Index With Digit Sum Equal to Index](solutions/python/easy/3550_smallest_index_with_digit_sum_equal_to_index.py) | Easy | 2026-08-07 |
 | `3360` | [Stone Removal Game](solutions/python/easy/3360_stone_removal_game.py) | Easy | 2026-08-06 |
 | `3345` | [Smallest Divisible Digit Product I](solutions/python/easy/3345_smallest_divisible_digit_product_i.py) | Easy | 2026-08-06 |
 | `1431` | [Kids With the Greatest Number of Candies](solutions/python/easy/1431_kids_with_the_greatest_number_of_candies.py) | Easy | 2026-08-06 |
@@ -27,7 +28,6 @@
 | `3925` | [Concatenate Array With Reverse](solutions/python/easy/3925_concatenate_array_with_reverse.py) | Easy | 2026-08-04 |
 | `3697` | [Compute Decimal Representation](solutions/python/easy/3697_compute_decimal_representation.py) | Easy | 2026-08-03 |
 | `3959` | [Check Good Integer](solutions/python/easy/3959_check_good_integer.py) | Easy | 2026-08-02 |
-| `3174` | [Clear Digits](solutions/python/easy/3174_clear_digits.py) | Easy | 2026-08-02 |
 
 ## Topics
 
