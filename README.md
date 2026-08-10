@@ -21,7 +21,7 @@
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
 | `1941` | [Check if All Characters Have Equal Number of Occurrences](solutions/python/easy/1941_check_if_all_characters_have_equal_number_of_occurrences.py) | Easy | 2026-08-10 |
-| `1510` | [Stone Game IV](solutions/python/easy/1510_stone_game_iv.py) | Easy | 2026-08-10 |
+| `1510` | [Stone Game IV](solutions/python/hard/1510_stone_game_iv.py) | Hard | 2026-08-10 |
 | `3921` | [Score Validator](solutions/python/easy/3921_score_validator.py) | Easy | 2026-08-08 |
 | `3550` | [Smallest Index With Digit Sum Equal to Index](solutions/python/easy/3550_smallest_index_with_digit_sum_equal_to_index.py) | Easy | 2026-08-07 |
 | `3360` | [Stone Removal Game](solutions/python/easy/3360_stone_removal_game.py) | Easy | 2026-08-06 |
