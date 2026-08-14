@@ -20,7 +20,7 @@
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| `0754` | [Reach a Number](solutions/python/easy/754_reach_a_number.py) | Easy | 2026-08-14 |
+| `0754` | [Reach a Number](solutions/python/medium/754_reach_a_number.py) | Medium | 2026-08-14 |
 | `3516` | [Find Closest Person](solutions/python/easy/3516_find_closest_person.py) | Easy | 2026-08-13 |
 | `3300` | [Minimum Element After Replacement With Digit Sum](solutions/python/easy/3300_minimum_element_after_replacement_with_digit_sum.py) | Easy | 2026-08-13 |
 | `0434` | [Number of Segments in a String](solutions/python/easy/434_number_of_segments_in_a_string.py) | Easy | 2026-08-13 |
