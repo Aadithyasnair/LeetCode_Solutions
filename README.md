@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**80 solved** · 16.0% complete · First solve: 2026-07-16 · Latest: 2026-08-14
+**81 solved** · 16.2% complete · First solve: 2026-07-16 · Latest: 2026-08-15
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `0997` | [Find the Town Judge](solutions/python/easy/997_find_the_town_judge.py) | Easy | 2026-08-15 |
 | `0754` | [Reach a Number](solutions/python/medium/754_reach_a_number.py) | Medium | 2026-08-14 |
 | `3516` | [Find Closest Person](solutions/python/easy/3516_find_closest_person.py) | Easy | 2026-08-13 |
 | `3300` | [Minimum Element After Replacement With Digit Sum](solutions/python/easy/3300_minimum_element_after_replacement_with_digit_sum.py) | Easy | 2026-08-13 |
@@ -27,7 +28,6 @@
 | `0121` | [Best Time to Buy and Sell Stock](solutions/python/easy/121_best_time_to_buy_and_sell_stock.py) | Easy | 2026-08-13 |
 | `1941` | [Check if All Characters Have Equal Number of Occurrences](solutions/python/easy/1941_check_if_all_characters_have_equal_number_of_occurrences.py) | Easy | 2026-08-10 |
 | `1510` | [Stone Game IV](solutions/python/hard/1510_stone_game_iv.py) | Hard | 2026-08-10 |
-| `3921` | [Score Validator](solutions/python/easy/3921_score_validator.py) | Easy | 2026-08-08 |
 
 ## Topics
 
