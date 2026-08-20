@@ -14,12 +14,13 @@
 
 <p align="center"><img src="assets/roadmap.svg" alt="Milestone tracker" width="88%" /></p>
 
-**83 solved** · 16.6% complete · First solve: 2026-07-16 · Latest: 2026-08-16
+**84 solved** · 16.8% complete · First solve: 2026-07-16 · Latest: 2026-08-20
 
 ## Latest solved
 
 | # | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
+| `3848` | [Check Digitorial Permutation](solutions/python/medium/3848_check_digitorial_permutation.py) | Medium | 2026-08-20 |
 | `1716` | [Calculate Money in Leetcode Bank](solutions/python/easy/1716_calculate_money_in_leetcode_bank.py) | Easy | 2026-08-16 |
 | `0796` | [Rotate String](solutions/python/easy/796_rotate_string.py) | Easy | 2026-08-16 |
 | `0997` | [Find the Town Judge](solutions/python/easy/997_find_the_town_judge.py) | Easy | 2026-08-15 |
@@ -27,7 +28,6 @@
 | `3516` | [Find Closest Person](solutions/python/easy/3516_find_closest_person.py) | Easy | 2026-08-13 |
 | `3300` | [Minimum Element After Replacement With Digit Sum](solutions/python/easy/3300_minimum_element_after_replacement_with_digit_sum.py) | Easy | 2026-08-13 |
 | `0434` | [Number of Segments in a String](solutions/python/easy/434_number_of_segments_in_a_string.py) | Easy | 2026-08-13 |
-| `0121` | [Best Time to Buy and Sell Stock](solutions/python/easy/121_best_time_to_buy_and_sell_stock.py) | Easy | 2026-08-13 |
 
 ## Topics
 
